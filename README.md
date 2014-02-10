@@ -41,4 +41,5 @@ refactoring as I'm not 100% happy with it.
 ### Thanks!
 
 Let me know if you have any questions or want to discuss, by shooting me an email
-wintle.ralph[at]gmail[dot]com
+wintle.ralph[at]gmail[dot]com or check out my blog at
+(http://www.ralphonrails.com)[http://www.ralphonrails.com]
