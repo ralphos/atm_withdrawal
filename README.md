@@ -36,7 +36,7 @@ Try it out!
 ### Version 1
 
 FYI: This was my first attempt at this challenge and I expect quite a lot of
-refactoring as I'm not 100% happy with it.
+refactoring.
 
 ### Thanks!
 
