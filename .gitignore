@@ -1,0 +1,5 @@
+# Ignore these files assuming code is intended to run in multiple environments:
+Gemfile.lock
+
+# Ignore Vendor folder
+/vendor
