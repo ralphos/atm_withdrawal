@@ -5,6 +5,7 @@ amount = gets.to_i
 
 puts 'What denonimations would you prefer?'
 puts 'NB: Please separate by commas and only use Australian denominations'
+puts 'e.g. $100, $50, $20, $10, $5'
 denoms = gets
 denoms = denoms.split.map { |d| d.to_i }
 
