@@ -35,11 +35,11 @@ Try it out!
 
 ### Version 1
 
-FYI: This was my first attempt at this challenge and I expect quite a lot of
+FYI: This was my first attempt at this challenge so I expect quite a lot of
 refactoring.
 
 ### Thanks!
 
 Let me know if you have any questions or want to discuss, by shooting me an email
 wintle.ralph[at]gmail[dot]com or check out my blog at
-(http://www.ralphonrails.com)[http://www.ralphonrails.com]
+http://www.ralphonrails.com
