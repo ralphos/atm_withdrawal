@@ -44,7 +44,7 @@ describe Atm, '#can_dispense?' do
     amount = 0
     denoms = [50, 10]
 
-    expect(atm.can_dispense?(amount, denoms)).to eq false
+    expect(atm.can_dispense?(amount, denoms)).to be_false
   end
 
   it 'will not dispense if incorrect denominations for amount are specified' do

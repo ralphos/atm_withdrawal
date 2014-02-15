@@ -22,6 +22,8 @@ class Atm
     valid?(amount) && correct_denoms_specified?(amount, denoms)
   end
 
+  private
+
   def valid?(amount)
     amount != 0
   end
