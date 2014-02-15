@@ -27,7 +27,7 @@ Run bundle install (I used Rspec for this example)
 
 Run tests to check everything's working as it should be
 
-    $ bundle exec rspec -fd
+    $ bundle exec rspec
 
 Try it out!
 
