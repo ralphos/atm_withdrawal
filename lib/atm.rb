@@ -29,7 +29,11 @@ class Atm
   end
 
   def correct_denoms_specified?(amount, denoms)
-    amount % denoms.min == 0 && aus_denom_specified?(denoms)
+    valid_denoms_entered?(amount, denoms) && aus_denom_specified?(denoms)
+  end
+
+  def valid_denoms_entered?(amount, denoms)
+    amount % denoms.min == 0
   end
 
   def aus_denom_specified?(denoms)
